@@ -1,7 +1,5 @@
 include <configuration.scad>;
 
-thickness = 3;
-
 module mount() {
 	difference() {
 		union() {
